@@ -30,12 +30,11 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
-.vscode/
 
 ### Environment Variables ###
-.env
-.env.local
 .env.*.local
 
 ### Logs ###
 *.log
+config.bat
+node_modules
